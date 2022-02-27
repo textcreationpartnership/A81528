@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of divers sorts of asses: with the description of their condition, setting them forth in proper colours, according to Smithfields fancies and inventions Also, follies petition against all sorts of fooles and asses, desiring to have them banisht to the Ile of Sillie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81528</idno>
+            <idno type="STC">Wing D1640</idno>
+            <idno type="STC">ESTC R230055</idno>
+            <idno type="EEBO-CITATION">99895890</idno>
+            <idno type="PROQUEST">99895890</idno>
+            <idno type="VID">153444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153444)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2365:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of divers sorts of asses: with the description of their condition, setting them forth in proper colours, according to Smithfields fancies and inventions Also, follies petition against all sorts of fooles and asses, desiring to have them banisht to the Ile of Sillie.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>July 8. London printed for Iohn Powel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153444:1" rendition="simple:additions"/>
+            <p>A DISCOVERY OF DIVERS SORTS OF ASSES: <hi>WITH</hi> The Deſcription of their Condition, ſetting them forth in proper Colours, according to Smith<g ref="char:EOLhyphen"/>fields Fancies and Inventions.</p>
+            <p>
+               <hi>ALSO,</hi> Follies Petition againſt all ſorts of Fooles and Aſſes, deſiring to have them baniſht to the Ile of SILLIE.</p>
+            <q xml:lang="lat">Stultorum plena ſunt omnia.</q>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>July 8. <hi>London</hi> Printed for <hi>Iohn Powel.</hi> 1642</p>
+         </div>
+      </front>
+      <body>
+         <div type="satirical_catalogue_of_asses">
+            <pb facs="tcp:153444:2"/>
+            <pb facs="tcp:153444:2"/>
+            <p>IT is well known that in <hi>Diebus illis,</hi> in former times, I was a very dirty myry <hi>Smithfield,</hi> &amp; a ve<g ref="char:EOLhyphen"/>ry Dunghill of deformities, untill the city brought me into compaſſe, rayling me in on every ſide, that I might come into due form and proportion.</p>
+            <p>Now there comes into the walks in <hi>Smithfield</hi> many horſes, various in ſhape, colour, and condition, which are rodden together in a ſhufling pace to allure &amp; draw on buyers: I could wiſh therfore for novelties ſake, that all ignorant Aſſes, black, red-gray &amp; brown, might be all brought on a day into <hi>Smithfield,</hi> for elſe they will never be ſold to their worth, and let them be ridden with bridles of authority in their mouths, or elſe they will fall to braying and rayling againſt their Gover<g ref="char:EOLhyphen"/>nours, and Maſters: for an Aſſe when he is angry wil encounter with a Lyon, though he loſe his skin; but if theſe Aſſes kick and fling againſt their Riders autho<g ref="char:EOLhyphen"/>rity, let them be tyed to my Rails in <hi>Smithfield,</hi> or to the ſign-poſts that ſtand a croſſe, for if they be thus hal<g ref="char:EOLhyphen"/>tred it will learn them more wit.</p>
+            <p>But becauſe I <hi>Smithfield</hi> am no Scholler, nor under ſtand any thing but Horſes and Oxen, who with their hoofes would ſain beat wit into me, but cannot: &amp; ther<g ref="char:EOLhyphen"/>fore ſetting learning aſide and beyond my Barres, I will ſéek all the Corners of my Invention, eſpecially my Tavern corners, and with the vermillion colour of wine, paint out and deſcribe my Market or Fayre of Aſſes in ſuch manner as I can faſhion and form them according to <hi>Smithfields</hi> fancie.</p>
+            <p>Firſt, you know that the ſpirit ſeaſonable, if it could
+<pb facs="tcp:153444:3"/> aſſume an unreaſonable figure and ſhape, might and would appeare often in the forme and likeneſſe of an Aſſe, but of ſeverall conditions and qualities; ſo that <hi>Smithfield</hi> doth in this fained Fayre or Market intend to deſcribe and explaine the colours, complexion, pro<g ref="char:EOLhyphen"/>perties and conditions of ſeverall ſorts and kindes of verationall qualities that may bee denominated and called Aſſes, for <hi>Smithfield</hi> medles with no perſons but aſſe-like properties.</p>
+            <p>The Ignorant Aſſe is the aſſe of aſſes, moſt excel<g ref="char:EOLhyphen"/>lent and eminent in non-ſence and want of underſtan<g ref="char:EOLhyphen"/>ding, he is dull of conceit, and his words walke alone without wit in a ſlow aſſe-like pace, and this aſſe is a fumbler at all things, and a great ſtumbler, eſpecially at ſtrawes, he is feareefull as it is the nature of igno<g ref="char:EOLhyphen"/>rance to be, and will ſtart at every thing, this aſſe knowes nor underſtands any thing but eating and drinking, piſſing and farting, and living according to inſtinct of Nature.</p>
+            <p>The proud Aſſe is contrary to the former, for hee holds up his head as if it were full of braines, when there's nothing but empty windines, yet he will play with his Bridle, looke often upon his legs and body, &amp; then ſmile to himſelfe, as if hee would ſay, how brave am I? <hi>Alexanders</hi> Bucephalus was a Iade in reſpect of me, this kind of animall thinks himſelfe wiſe, and ſcornes all but himſelfe.</p>
+            <p>The Covetous Aſſe loves to carry burthens and heavie loades of Cabbages and Turnips, but never eates a bit, takes paines and weares his hoofes to pie<g ref="char:EOLhyphen"/>ces with trotting up and downe to gather wealth for others, hope of profit is his onely provinder, which makes this aſſe look ſo thin and leane, that one of his jaw bones would ſerve <hi>Sampſon</hi> to kill a 1000. Phili<g ref="char:EOLhyphen"/>ſtines withall; he had rather part with ſkin than his riches, which when he dyes hee leaves behinde him to
+<pb facs="tcp:153444:3"/> ſome young heyre that is an arranter aſſe then himſelf. But to come to the aſſes of the times, is not the petty-fogging Lawyer a kind of ſtupid Dulman, that has been indeed in much requeſt, and many Countreymen have appeared in the ſhape of Angels to make theſe aſſes ſpeake as <hi>Balaams</hi> did, but now they may ſhake their long eares, for they can no longer graze upon and devoure the poore Commons, ſo that now they are growne ſtark dumbe, and if they will do any thing they may turne Porters, becauſe they how to carry the mat<g ref="char:EOLhyphen"/>ter very well.</p>
+            <p>But there are certaine kind of aſſes that have raw wits and Round-heads, theſe are mad kicking flinging animals, that can't endure the Bridle of Authority, and if they come by any thing that is like a croſſe, they will ſtart and turn back again, and run out of the way with their Prick-eares as if they were mad, in the Country they will trot five or ſixe miles to Church, and returne againe without eating a bit, and in <hi>London</hi> in regard of their proud abominable ignorance, bleating &amp; bray<g ref="char:EOLhyphen"/>ing of Sermons out of Tubbes, and for their blockiſh ſtubbornenes in ſcorning Learning, they may be juſtly called ſtiffe-necked aſſes.</p>
+            <p>There are another ſort of aſſes that voe think them<g ref="char:EOLhyphen"/>ſelves fine fellowes, becauſe they can in an obſtrepe<g ref="char:EOLhyphen"/>rous manner outſwagger the Devill, and ſo thunder out execrations againſt the poore Round-heads, that they dare not ſhew their heads when the Rattle-heads be in place: ſo that the one ſeemes like <hi>Sampſon</hi> with a long buſh of hayre as if his ſtrength lay therein, and the other Rotundian animall lookes with a ſupercili<g ref="char:EOLhyphen"/>ous countenance as ſmooth as a ſcalded Pigge; and therefore the one doth reſide at <hi>York,</hi> and the other that is the Round-heads live plentifully at racke and man<g ref="char:EOLhyphen"/>ger in <hi>London.</hi>
+            </p>
+            <pb facs="tcp:153444:4"/>
+            <p>If you deſire to know the ſymptomes and ſignes of your gray Aſſes, they are ſo big-bodyd and ſo well trap<g ref="char:EOLhyphen"/>ped with gold and ſilver, that you cannot overlook them, they are ſomewhat ſtricken in yéeres, and by the ſtate<g ref="char:EOLhyphen"/>lineſſe of their pace you would thinke them as wiſe as a City Iuſtice, this aſſe gets on the Lions ſkin, and with the authority of his warrants frights delin<g ref="char:EOLhyphen"/>quents, and at a Seſſions he brayes on a Bench, if he be of the inferiour ſort, his gray head ſhakes with a Palſie ague, and he walks on thrée Legs that is by the ſupport of his ſtaffe, and at laſt marries a yong wench when he can neither neigh nor wag tayle.</p>
+            <p>There is moreover a mad-braind Aſſe, that is ſo wilfull, that he will not be reformed by any good coun<g ref="char:EOLhyphen"/>ſell, but will violently run on in all pernicious courſes, he will run his head againſt a poſt if he be angry, and will ſtray abroad into all wild and vitious paths, until at laſt hee be caught and put into the Pound, that is, into the Counter or Ludgate.</p>
+            <p>The Cock braind Aſſe is ſomewhat like the mad-braind, but they differ becauſe the Cock-braind is ever running after females, and affecting change in all things, this Aſſe will leape his Neighbors wife, and will breaks over the hedge of Matrimony to come at her, hee will take a journey onely to ſee Townes, or to dine at <hi>Barner</hi> and come back againe, for his actions are precipitate without any intention or end, he loves to be in the faſhion, weare fine cloathes and have a new Miſtris, when he has the happineſſe to purchaſe a new ſuit, this is a kind of Taylors aſſe, that changes him<g ref="char:EOLhyphen"/>ſelfe into all ſhapes and colours.</p>
+            <p>The haire-braind Aſſe is timerarious and raſh, and caſting up his head will ruſh forward though hee fall into a ditch or quagmire, this Aſſe will without any advice runne his head into the Halter of Marriage, or
+<pb facs="tcp:153444:4"/> debt, and ſometimes by ſtobbing and committing man<g ref="char:EOLhyphen"/>ſlaughter, brings himſelfe to ſing a pen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tentiall Pſalm at <hi>Tyburne,</hi> hee is very much ſubject unto Quarrels, and vents his ordinary anger with beating his wife and ſervants, or breaking his Tobacco pipes againſt the walls, age and the whip of wedlock may tame this Aſſe.</p>
+            <p>Beſides all theſe there are many other Aſſes, as your Frenchified aſſe, that goes ſtradling with his legges ſo wide aſunder, that a wheelebarrow may runne be<g ref="char:EOLhyphen"/>twéene them, and this came with leaping of Mules and Muliers, that is women.</p>
+            <p>There are alſo intelligent Aſſes that will diſcourſe profoundly of matters above their underſtanding. And valiant aſſes, that when they come into the Field will ſhoote wet powder backward, and beſhite themſelves for feare. Folly therefore being aſhamed that the old Proverbe is true, <hi>Stultorum plena ſunt omnia,</hi> the world is full of Fooles and aſſes, hath framed this pe<g ref="char:EOLhyphen"/>tition againſt all ſorts of aſſes.</p>
+         </div>
+         <div type="satirical_petition_against_fools_and_asses">
+            <pb facs="tcp:153444:5"/>
+            <head>Follies Petition againſt all ſorts of Fools and Aſſes.</head>
+            <opener>Proudly and fooliſhly ſheweth,</opener>
+            <p>THat whereas a number of aſſes and malignant parties have long eares, and do eate more hay then their bodies are worth, being ſhitten companions, and hayre-braind coxcombs, whoſe underſtandings are full of want of knowledge, plotting many things in their dreames, and contriving ſuch ſtrange devices, as the Wiſemen of <hi>Goteham</hi> never thought on, and whereas ſome of them out of their ſtubborne ſences, medling as fooles will doe, with politick buſineſſes, drinke them<g ref="char:EOLhyphen"/>ſelves drunke with diſcourſing thereon: and whereas there are many prating, gaping, covetous, &amp; factious fooles, humerous fooles, and timerarious fooles, fooles in long coats and cloakes; and wherea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome of them have endeavoured, contrary to the Lawes of Reaſon and the peace of the Ile of Man, to fill a ſcive with wa<g ref="char:EOLhyphen"/>ter, and not only to drowne Eeles, but to put red Her<g ref="char:EOLhyphen"/>ring into the <hi>Thames</hi> to breed there, and to catch all the Raine that hath fell in Bottles, folly therefore de<g ref="char:EOLhyphen"/>ſireth, that theſe and all other ſorts of fooles may be ba<g ref="char:EOLhyphen"/>niſhed to the Ile of Silly, there to make a Common<g ref="char:EOLhyphen"/>wealth of Coxcombs.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
